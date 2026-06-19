@@ -15,4 +15,6 @@ main{
     flex: 1;
 }
 
-.cabecalho{}
+.cabecalho{
+    color:black;
+    padding: 15px 25px ;
