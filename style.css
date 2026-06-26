@@ -18,7 +18,7 @@ main{
 .cabecalho{
     color:black;
     padding: 15px 25px ;
-    duisplay:flex;
+    display:flex;
     justify-content: space-between;
     align-items: center;
     background-color: #9370DB;
